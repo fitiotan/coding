@@ -1,0 +1,4 @@
+{
+    "git config --global user.email": "fitiotan@gmail.com",
+    "git config --global user.name": "fitiotan",
+}
